@@ -11,7 +11,9 @@ checks and displays findings that can help with an initial
 review of a Linux system.
 
 git clone https://github.com/Breon21/linux-security-auditor.git
+
 cd linux-security-auditor
+
 chmod +x audit.sh && ./audit.sh
 
 
