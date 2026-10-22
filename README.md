@@ -1,12 +1,19 @@
 # Linux Security Auditor
-<img width="834" height="482" alt="Image" src="https://github.com/user-attachments/assets/171b0715-ae67-4276-b878-116043399414" />
 A beginner-friendly Linux security auditing tool written in Python.
+
+<img width="834" height="482" alt="Image" src="https://github.com/user-attachments/assets/171b0715-ae67-4276-b878-116043399414" />
+
 
 ## Overview
 
 Linux Security Auditor performs basic, read-only security
 checks and displays findings that can help with an initial
 review of a Linux system.
+
+git clone https://github.com/Breon21/linux-security-auditor.git
+cd linux-security-auditor
+chmod +x audit.sh && ./audit.sh
+
 
 ## Features
 
