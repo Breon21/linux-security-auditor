@@ -1,7 +1,5 @@
 # Linux Security Auditor
 <img width="834" height="482" alt="Image" src="https://github.com/user-attachments/assets/171b0715-ae67-4276-b878-116043399414" />
-
-
 A beginner-friendly Linux security auditing tool written in Python.
 
 ## Overview
